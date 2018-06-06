@@ -61,14 +61,13 @@ h2 {
 
 header {
   text-align: center;
-  background: url('images/portland.jpg') no-repeat top center ;
+  background: url('images/Toronto.jpg') no-repeat 0 20% ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
 }
 
 .experience_header {
-  background: url('images/NYC.jpg') no-repeat center center ;
   min-height: 580px;
 }
 
